@@ -20,6 +20,10 @@ This dashboard provides an overview of employee data, including:
 - Power Query
 - DAX
 
+## Dataset
+
+This project uses a fictional HR dataset created for learning purposes.
+
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
