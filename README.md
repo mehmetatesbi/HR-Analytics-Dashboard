@@ -1,29 +1,66 @@
-# HR Analytics Dashboard
+# 📊 HR Analytics Dashboard
 
-My first Power BI dashboard project.
+> **My first Power BI dashboard project.**  
+> This project was created while learning Power BI and represents the beginning of my data analytics journey.
 
-## Overview
+---
 
-This dashboard provides an overview of employee data, including:
+## 📌 Project Overview
 
-- Employee count
-- Total salary
-- Female employee count
-- Employee turnover rate
-- Department distribution
-- Employment status
-- City filtering
+This dashboard provides an overview of employee data, including workforce distribution, salaries, departments, and employee status.
 
-## Tools
+Although it is my first dashboard, it helped me learn the fundamentals of Power BI, Power Query, and dashboard design. More advanced projects are available in my GitHub portfolio as I continue improving my skills.
+
+---
+
+## 🚀 Dashboard Features
+
+- Total Salary KPI
+- Total Employee Count
+- Female Employee Count
+- Employee Turnover Rate
+- Department Distribution
+- Employment Status Analysis
+- City Filter
+- Gender Filter
+
+---
+
+## 🛠 Tools Used
 
 - Power BI
 - Power Query
-- DAX
+- Basic DAX
 
-## Dataset
+---
 
-This project uses a fictional HR dataset created for learning purposes.
-
-## Dashboard Preview
+## 📷 Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
+---
+
+## 📚 What I Learned
+
+Through this project I learned:
+
+- Importing and transforming data with Power Query
+- Creating KPI cards
+- Building interactive dashboards
+- Using slicers and filters
+- Writing basic DAX measures
+- Designing dashboard layouts
+
+---
+
+## 🎯 Note
+
+This dashboard reflects my early stage of learning Power BI.
+
+---
+
+## 👤 Author
+
+Mehmet Ateş
+
+GitHub: https://github.com/mehmetatesbi
